@@ -1,2 +1,1 @@
-# bellohuman.github.io
-## Welcome to Our website.
+# Welcome to Our website.
